@@ -41,7 +41,7 @@ The documentation for GenAI Stack can be found at [genaistack.aiplanet.com](http
 
 GenAI Stack is an end-to-end framework designed to integrate large language models (LLMs) into applications seamlessly. The purpose is to bridge the gap between raw data and actionable insights or responses that applications can utilize, leveraging the power of LLMs.
 
-In short, it orchestrates and streamlines your Generative AI development journey. From the initial steps of ETL (Extract, Transform, Load) data processing to the refined LLM inference stage, GenAI Stack revolutionizes the way you harness the potential of AI, ensuring data privacy, domain-driven, and ensuring factuality without the pitfalls of hallucinations commonly associated with traditional LLMs.
+In short it orchestrates and streamlines your Generative AI development journey. From the initial steps of ETL (Extract, Transform, Load) data processing to the refined LLM inference stage, GenAI Stack revolutionizes the way you harness the potential of AI, ensuring data privacy, domain-driven, and ensuring factuality without the pitfalls of hallucinations commonly associated with traditional LLMs.
 
 ## How can GenAI Stack be helpful?
 
